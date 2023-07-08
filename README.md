@@ -8,4 +8,4 @@ Sample website with plenty of files for demos. adding a line, and more changes
 
 ## Copyright Notice
 
-2023 Anshika.Bangar
+2023 Anshika.Bangar All rights
